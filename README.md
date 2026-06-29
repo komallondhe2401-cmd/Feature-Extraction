@@ -66,7 +66,3 @@ After completing this project, you will understand:
 - Explained variance and principal components.
 - The impact of PCA on machine learning models.
 - Visualization of high-dimensional data.
-
-## 👨‍💻 Author
-
-**Komal Londhe**
